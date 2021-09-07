@@ -3,6 +3,7 @@
 #### 적용할 곳을 클릭해주시면 설명으로 이동합니다.
 1. [메인페이지](#1-메인페이지)
 2. [사이드바](#2-사이드바)
+3. [Reference](#reference)
 
 ### 궁금한게 있으시다면 페이지 하단에 댓글 남겨주세요!
 
@@ -92,3 +93,7 @@
         });
 </script>
 ```
+
+## Reference
+- [github-calendar API](https://github.com/l4279625/Module_List/blob/main/ETC/Tistory-Commit-Graph.md)  
+- [githubchart API](https://github.com/akerl/githubchart)
