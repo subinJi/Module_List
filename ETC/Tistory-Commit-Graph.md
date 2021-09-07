@@ -5,15 +5,17 @@
 2. [사이드바](#2-사이드바)
 3. [Reference](#reference)
 
-### 궁금한게 있으시다면 페이지 하단에 댓글 남겨주세요!
+
+[제 블로그에서 예시를 보실 수 있습니다](https://l4279625.tistory.com/)
 
 ---
 <br>
 
 ## 1. 메인페이지
+### 주의!!! 메인페이지에 들어갈 코드는 "**프라치노 공간**" 스킨에 최적화 되어있습니다.
+### 해당 스킨이 아니라면 사전 작업 2번까지 진행하고 img 태그만 이용하여 요령껏 꾸며야 합니다 ㅠㅠ
 ![커밋 그래프 메인페이지](https://github.com/l4279625/Module_List/blob/main/images/Tistory-Commit-Graph-Mainpage.PNG?raw=true)
-메인페이지에 들어갈 코드는 "**프라치노 공간**" 스킨에 최적화 되어있습니다.
-**만약 프라치노 공간 스킨이 아니라면 사전 작업 2번까지 진행하고 개발자도구로 열심히 알맞게 들어갈 곳을 찾아야 합니다 ㅠㅠ**
+
 
 
 ### 적용 방법
@@ -95,5 +97,11 @@
 ```
 
 ## Reference
-- [github-calendar API](https://github.com/l4279625/Module_List/blob/main/ETC/Tistory-Commit-Graph.md)  
+- [github-calendar API](https://github.com/Bloggify/github-calendar)  
 - [githubchart API](https://github.com/akerl/githubchart)
+
+<br><br><br><br>
+
+
+# 감사합니다
+![다운로드](https://user-images.githubusercontent.com/72638829/132350825-e6e555be-6efe-4029-94fd-26ed4b2d1182.gif)
