@@ -95,5 +95,5 @@
 ```
 
 ## Reference
-- [github-calendar API](https://github.com/l4279625/Module_List/blob/main/ETC/Tistory-Commit-Graph.md)  
+- [github-calendar API](https://github.com/Bloggify/github-calendar)  
 - [githubchart API](https://github.com/akerl/githubchart)
