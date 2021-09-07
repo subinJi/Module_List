@@ -8,8 +8,6 @@
 
 [제 블로그에서 예시를 보실 수 있습니다](https://l4279625.tistory.com/)
 
-### 궁금한게 있으시다면 페이지 하단에 댓글 남겨주세요!
-
 ---
 <br>
 
@@ -105,4 +103,5 @@
 <br><br><br><br>
 
 
+# 감사합니다
 ![다운로드](https://user-images.githubusercontent.com/72638829/132350825-e6e555be-6efe-4029-94fd-26ed4b2d1182.gif)
